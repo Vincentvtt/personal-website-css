@@ -1,0 +1,28 @@
+body {
+    margin: 0px;
+}
+
+h1 {
+    display: inline-block;
+    margin-top: 0px;
+}
+
+.header {
+    background-color: #E4F9F5;
+    margin: 0px;
+
+}
+
+
+.middle {
+    background-color: red;
+    height: 200px;
+    width: 200px;
+}
+
+
+.bottom {
+    background-color: yellow;
+    height: 200px;
+    width: 200px;
+}
